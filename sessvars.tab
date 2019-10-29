@@ -1,0 +1,4 @@
+{"name": "PostVars", "columns": [{"name": "idSession", "type": 0}, {"name": "key", "type": 0}, {"name": "value", "type": 0}]}
+["1270015684620191029122501692072", "nome", "Joao Paulo"]
+["1270015684620191029122501692072", "cpf", "12345678900"]
+["1270015684620191029122501692072", "email", "email@email.com"]
